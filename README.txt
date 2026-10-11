@@ -7,6 +7,7 @@ WHAT'S IN THIS FOLDER
   research.html   Research page
   teaching.html   Teaching page
   style.css       Design (colors, fonts, layout) for all pages
+  fonts/          Font files (EB Garamond, Lato, Source Code Pro)
   images/         Put your profile photo here
   files/          Put your PDFs here
 
